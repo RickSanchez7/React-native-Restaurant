@@ -1,5 +1,7 @@
 {
   "extends": "@react-native-community",
   "parser": "babel-eslint",
-  "rules": {}
+  "rules": {
+    "curly": [2, "multi-line"]
+  }
 }
